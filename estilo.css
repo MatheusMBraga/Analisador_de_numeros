@@ -1,0 +1,54 @@
+body {
+    background: rgb(136, 69, 199);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+section{
+    background: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 570px;
+    margin: auto;
+    box-shadow: 2vh 2vh 2rem rgb(0, 0, 0);
+}
+
+footer {
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+
+.btn {
+    background: rgb(34, 103, 252);
+    color: rgb(0, 0, 0);
+    font: normal 15pt Arial;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0.363);
+}
+.btn:hover {
+    background-color: rgb(0, 90, 200);
+}
+
+#numero {
+    font: normal 15pt Arial;
+    text-align: center;
+    background: aliceblue;
+    border: none;
+    border-bottom: solid 2px rgb(95, 94, 94);
+}
+
+#salnum {
+    font: normal 15pt Arial;
+    text-align: center;
+    background: aliceblue;
+    width: 30vh;
+    border: none;
+    border-left: solid 2px rgb(95, 94, 94);
+}
+option {
+    text-align: left;
+}
